@@ -71,7 +71,7 @@ The project allows users to add, manage, prioritize, and remove tasks بسهول
 
 👤 Author
 
-- *Muhammad Ibrahim*
+- **Muhammad Ibrahim**
 - Computer Science Student
 - Interested in Web Development & Cybersecurity
 
