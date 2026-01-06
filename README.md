@@ -43,7 +43,7 @@ The project allows users to add, manage, prioritize, and remove tasks بسهول
    git clone https://github.com/your-username/your-repo-name.git
 
 2. Open index.html in your browser
-✅ No server or setup required
+   ✅ No server or setup required
 
 ---
 
